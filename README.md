@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hehuapei.hehuapei)
 
-- 💬 My personal homepage: [https://www.hehuapei.com](https://www.hehuapei.com)
+- 💬 Homepage: [https://www.hehuapei.com](https://www.hehuapei.com)
 
 <!--
 **hehuapei/hehuapei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
