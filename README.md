@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hehuapei.hehuapei)
+![visitors](http://visitor-badge.laobi.icu/badge?page_id=hehuapei.hehuapei)
 
 - 💬 My personal homepage: [https://www.hehuapei.com](https://www.hehuapei.com)
 
