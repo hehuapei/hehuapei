@@ -4,7 +4,7 @@
 
 - 💬 Homepage: [https://www.hehuapei.com](https://www.hehuapei.com)
 
-![wiken's github stats](https://github-readme-stats.vercel.app/api?username=hehuapei&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![wiken's github stats](https://github-readme-stats.vercel.app/api?username=hehuapei&show_icons=true)
 <!--
 **hehuapei/hehuapei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
