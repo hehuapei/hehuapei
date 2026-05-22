@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hehuapei.hehuapei&format=true" alt="访问量" />
-  <img src="https://img.shields.io/github/followers/hehuapei?style=social" alt="关注者" />
+  <img src="https://img.shields.io/github/stars/hehuapei?style=social" alt="总星数" />
 </p>
 
 ---
