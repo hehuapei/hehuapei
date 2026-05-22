@@ -1,19 +1,22 @@
-### Hi there 👋  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+我是+wiken;全栈开发者+%7C+Vibe+Coding+工程师" alt="Typing SVG" />
+</div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hehuapei.hehuapei&format=true)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hehuapei.hehuapei&format=true" alt="访问量" />
+  <img src="https://img.shields.io/github/followers/hehuapei?style=social" alt="关注者" />
+</p>
 
+---
 
-<!--
-**hehuapei/hehuapei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![wiken's github stats](https://github-readme-stats.vercel.app/api?username=hehuapei&show_icons=true)
-Here are some ideas to get you started:
+### 🧑‍💻 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 目前主要折腾各种好玩的小东西 
+- 🌱 深耕后端架构、云原生、高并发分布式系统
+- 💬 可聊的话题：**Java、云计算、后端架构、Vibe Coding、软路由***
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <i>⭐️ 来自 <a href="https://github.com/hehuapei">wiken</a></i>
+</p>
